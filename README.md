@@ -1,4 +1,5 @@
-# AI-Based Queue Length Estimation from Surveillance Footage
+# -ai-queue-length-estimation
+AI-Based Queue Length Estimation using Computer Vision
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-YOLOv8%20%7C%20OpenCV%20DNN-orange.svg)](https://docs.ultralytics.com/)
@@ -162,3 +163,7 @@ The complete project demonstration video is available here:
 - **Department:** Department of Computer Science & Engineering
 - **Institute:** Unitedworld Institute of Technology (UIT)
 - **University:** Karnavati University, Gandhinagar, Gujarat, India
+=======
+# -ai-queue-length-estimation
+AI-Based Queue Length Estimation using Computer Vision
+>>>>>>> cb3fc54617606b24da6a0134967338d86e4e3a74
