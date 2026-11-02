@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Archives (redundant zip backups)
+*.zip
+
+# Virtual Environments
+venv/
+env/
+.env/
+
+# IDE / Editor configuration
+.idea/
+*.swp
+*.swo
+
+# Temporary and checkpoint files
+.ipynb_checkpoints/
+scratch/
+tmp/
+*.tmp
+
+.vscode/
+Mini_Project_Video.mp4
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
